@@ -96,7 +96,7 @@ The [WebCrypto API](/workers/runtime-apis/web-crypto/) is also available within 
 | [`sign`](https://nodejs.org/api/crypto.html#cryptosignalgorithm-data-key-callback) |  | |
 | [`verify`](https://nodejs.org/api/crypto.html#cryptoverifyalgorithm-data-key-signature-callback) |  | |
 
-## Misc
+## Miscellaneous
 
 | API | Supported? | Notes |
 |-----|------------|-------|
